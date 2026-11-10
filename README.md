@@ -1,6 +1,6 @@
 ### Junior SOC Analyst in training · Blue Team · Python automation · Mendoza, Argentina
 
-Systems Engineering student at UTN (Universidad Tecnológica Nacional), 4th year completed.
+Systems Engineering student at UTN (Universidad Tecnológica Nacional), currently in 4th year.
 
 #### What I'm working on
 - **SOC investigations:** alert triage write-ups from LetsDefend, CyberDefenders and Blue Team Labs Online.
