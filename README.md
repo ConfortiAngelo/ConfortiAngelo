@@ -22,3 +22,6 @@ Systems Engineering student at UTN (Universidad Tecnológica Nacional), 4th year
 
 #### Skills
 SIEM: Splunk (SPL basics, Universal Forwarder) · Sysmon / Windows event logs · Linux auth logs · Wireshark · MITRE ATT&CK · Python (asyncio, pytest) · Docker · Git / GitHub Actions
+
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/angelo-conforti-a18b42330)
