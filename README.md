@@ -1,4 +1,4 @@
-### Junior SOC Analyst in training · Blue Team · Python automation · Mendoza, Argentina
+### Junior SOC Analyst in training · Blue Team · Python automation
 
 Systems Engineering student at UTN (Universidad Tecnológica Nacional), currently in 4th year.
 
